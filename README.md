@@ -92,4 +92,8 @@ This project is a prototype designed for educational purposes. Fork the reposito
 
 ## License
 
+<<<<<<< HEAD
 This project is available under the MIT License for educational and demonstration purposes.
+=======
+This project is available under the MIT License for educational and demonstration purposes.
+>>>>>>> 2339a04 (Updated Project Contents)
