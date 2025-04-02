@@ -2,8 +2,6 @@
 
 A functional and visually appealing frontend prototype for a Procurement Management System built with React, TypeScript, and Shadcn UI components. This system focuses on tracking procurement processes, managing vendor contracts, and providing financial insights through interactive mock data and real-time analytics.
 
-![Procurement Management System Preview](./preview-image.png)
-
 ## Features
 
 ### Procurement Tracking
